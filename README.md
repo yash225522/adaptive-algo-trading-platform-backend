@@ -1,6 +1,6 @@
 # adaptive-algo-trading-platform
 
-An algorithmic trading platform designed for adaptive market strategies.
+An algorithmic trading platform for market analysis, historical backtesting, ML-driven signal generation, risk management, paper trading, and automated champion-challenger model evaluation with continuous learning and model versioning.
 
 ## Project Status
 
